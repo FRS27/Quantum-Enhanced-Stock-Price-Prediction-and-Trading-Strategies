@@ -1,5 +1,7 @@
 **﻿# Quantum-Enhanced-Stock-Price-Prediction-and-Trading-Strategies**
- This repository contains a comprehensive project that leverages quantum-inspired techniques to enhance stock price prediction and trading strategies. By integrating classical machine learning, quantum-inspired features, and financial analysis, this project demonstrates innovative approaches to solving time-series forecasting problems.
+
+
+This repository contains a comprehensive project that leverages quantum-inspired techniques to enhance stock price prediction and trading strategies. By integrating classical machine learning, quantum-inspired features, and financial analysis, this project demonstrates innovative approaches to solving time-series forecasting problems.
 
 **🚀 Features**
 **1. Stock Price Prediction**
