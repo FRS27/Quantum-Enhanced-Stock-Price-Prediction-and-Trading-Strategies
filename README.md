@@ -10,7 +10,6 @@ This repository contains a comprehensive project that leverages quantum-inspired
 The stock price prediction pipeline integrates classical machine learning and quantum-inspired techniques for time-series forecasting.
 
 **Quantum-Enhanced Bidirectional LSTM**
-![image](https://github.com/user-attachments/assets/29141cea-cd80-41ef-9d4c-1c31441a844d)
 
 **Architecture:** A Bidirectional Long Short-Term Memory (LSTM) neural network augmented with quantum-inspired features.
 
@@ -37,6 +36,9 @@ Principal Component Analysis (PCA) from scikit-learn is applied to reduce dimens
 
 Accurately predicts the stock prices for Apple (AAPL) using a quantum-enhanced pipeline.
 Provides improved forecasting accuracy compared to purely classical models.
+
+![image](https://github.com/user-attachments/assets/f4553513-b695-4770-9aec-59923c0db0a9)
+
 
 **Key Technologies:**
 
@@ -68,6 +70,9 @@ Generates sell signals when the short-term average crosses below the long-term a
 **Output:**
 Buy/Sell signals visualized alongside stock price and moving averages.
 
+![image](https://github.com/user-attachments/assets/9c65ceec-aef0-4165-81af-7777e309e9c0)
+
+
 **Advantages:**
 Simplicity and interpretability.
 Proven effectiveness in identifying trends.
@@ -82,6 +87,9 @@ Generates buy/sell signals based on the adjusted "Quantum Prediction."
 
 **Output:**
 Visualizations showing quantum-enhanced predictions, stock price, and trading signals.
+
+![image](https://github.com/user-attachments/assets/355ca002-fc52-4510-bcce-9d579d6aee52)
+
 
 **Advantages:**
 Captures subtle patterns in stock price movements that may be missed by classical strategies.
