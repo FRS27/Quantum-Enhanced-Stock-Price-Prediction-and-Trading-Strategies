@@ -72,6 +72,7 @@ Simplicity and interpretability.
 Proven effectiveness in identifying trends.
 
 **Quantum-Inspired Trading Strategy**
+
 **Method:**
 Enhances the classical strategy by adding quantum-inspired noise to the moving averages:
 Quantum Noise: Introduced via random noise generation using NumPy.
