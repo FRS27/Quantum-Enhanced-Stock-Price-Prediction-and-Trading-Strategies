@@ -4,7 +4,9 @@
 This repository contains a comprehensive project that leverages quantum-inspired techniques to enhance stock price prediction and trading strategies. By integrating classical machine learning, quantum-inspired features, and financial analysis, this project demonstrates innovative approaches to solving time-series forecasting problems.
 
 **🚀 Features**
+
 **1. Stock Price Prediction**
+
 The stock price prediction pipeline integrates classical machine learning and quantum-inspired techniques for time-series forecasting.
 
 **Quantum-Enhanced Bidirectional LSTM**
@@ -31,6 +33,7 @@ MinMaxScaler from scikit-learn is used for normalizing stock price data to impro
 Principal Component Analysis (PCA) from scikit-learn is applied to reduce dimensionality and capture the most significant features.
 
 **Results:**
+
 Accurately predicts the stock prices for Apple (AAPL) using a quantum-enhanced pipeline.
 Provides improved forecasting accuracy compared to purely classical models.
 
@@ -47,9 +50,11 @@ Provides improved forecasting accuracy compared to purely classical models.
 **Matplotlib:** For visualization of prediction results.
 
 **2. Trading Strategies**
+
 The project includes two trading strategies for generating buy/sell signals based on stock price data: Classical and Quantum-Inspired.
 
 **Classical Trading Strategy**
+
 **Method:**
 Implements a traditional moving average crossover strategy.
 
