@@ -96,3 +96,7 @@ Both strategies generate actionable buy/sell signals.
 
 _The quantum-inspired strategy demonstrates enhanced adaptability and precision in dynamic markets.
 By integrating scikit-learn for preprocessing, evaluation, and dimensionality reduction, this project highlights the synergy between classical machine learning and quantum-inspired methodologies in financial modeling._
+
+**🧑‍💻 Contributing**
+
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
