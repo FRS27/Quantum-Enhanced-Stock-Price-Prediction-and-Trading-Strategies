@@ -10,6 +10,7 @@ This repository contains a comprehensive project that leverages quantum-inspired
 The stock price prediction pipeline integrates classical machine learning and quantum-inspired techniques for time-series forecasting.
 
 **Quantum-Enhanced Bidirectional LSTM**
+![image](https://github.com/user-attachments/assets/29141cea-cd80-41ef-9d4c-1c31441a844d)
 
 **Architecture:** A Bidirectional Long Short-Term Memory (LSTM) neural network augmented with quantum-inspired features.
 
