@@ -100,3 +100,13 @@ By integrating scikit-learn for preprocessing, evaluation, and dimensionality re
 **🧑‍💻 Contributing**
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+
+**📬 Contact**
+
+For any inquiries, feel free to reach out:
+
+**Email:** ahmad.faris615@gmail.com
+
+**🌟 Acknowledgments**
+
+_This project is inspired by advancements in quantum computing and machine learning for financial applications._
